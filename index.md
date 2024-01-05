@@ -4,29 +4,51 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Serving with shared purpose—Striving towards a common cause.
+      subtitle: 20,000+ professionals from 500+ agencies unite as one Social Service
+        Tribe, empowering those in need for dignified lives.
+      background: /images/ncss_projects_masthead_2.png
+      url: /contact-us/
+      variant: floating
+      backgroundColor: white
+  - infobar:
+      title: Our Purpose
+      description: Guided by putting people first, we're catalysts for social change.
+        Watch us unite like-minded groups to support the vulnerable.
+      url: /faq/
+  - infopic:
+      title: We help others so they may help themselves.
+      subtitle: Empowering Lives
+      id: infopic
+      description: Social service pros inspire change, empower people daily, driven by
+        the desire to build better futures for all.
+      image: /images/about_us_empowering_lives__1_.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Success isn’t just measured in numbers
+      subtitle: Working with True Purpose
+      id: infopic
+      description: Social service pros go beyond jobs, earning respect, making lives
+        better daily. Empowering lives defines us.
+      image: /images/our_services.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/our_services.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/about_us_driving_positive_change.jpeg
+      alt: Image alt text
 ---
-
