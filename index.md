@@ -12,8 +12,9 @@ sections:
         Tribe, empowering those in need for dignified lives.
       background: /images/ncss_projects_masthead_2.png
       url: /contact-us/
-      variant: floating
+      variant: side
       backgroundColor: white
+      alignment: right
   - infobar:
       title: Our Purpose
       description: Guided by putting people first, we're catalysts for social change.
