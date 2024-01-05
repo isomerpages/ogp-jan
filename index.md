@@ -36,19 +36,18 @@ sections:
       image: /images/our_services.jpeg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: We share the dream of helping others achieve their own.
+      subtitle: We work with like-minded folks
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Social service pros unite to make dreams happen, one challenge at a time.
       image: /images/our_services.jpeg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Our heart work changes lives
+      subtitle: Driving Positive Change
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Empowering lives with empathy. The Social Service Tribe believes in
+        the power of compassion to create lasting change.
       image: /images/about_us_driving_positive_change.jpeg
       alt: Image alt text
 ---
