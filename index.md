@@ -12,7 +12,7 @@ sections:
         Tribe, empowering those in need for dignified lives.
       background: /images/ncss_projects_masthead_2.png
       url: /contact-us/
-      variant: side
+      variant: floating
       backgroundColor: white
       alignment: right
   - infobar:
