@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Serving with shared purpose—Striving towards a common cause.
+      title: Class Licensing Scheme for Collective Management (CMOs)
       subtitle: 20,000+ professionals from 500+ agencies unite as one Social Service
         Tribe, empowering those in need for dignified lives.
       background: /images/ncss_projects_masthead_2.png
