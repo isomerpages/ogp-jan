@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://ogpjan.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,3 +53,7 @@ staging: https://staging.d3fwsealg6jt4z.amplifyapp.com
 prod: https://master.d3fwsealg6jt4z.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
